@@ -1,0 +1,8 @@
+Customer,TransactionDate,Product,Amount
+John Doe,2023-09-01,Product A,100.00
+Jane Smith,2023-09-02,Product B,75.50
+John Doe,2023-09-03,Product A,120.25
+Eva Johnson,2023-09-03,Product C,45.75
+Jane Smith,2023-09-04,Product A,60.50
+Eva Johnson,2023-09-05,Product B,85.00
+John Doe,2023-09-06,Product C,150.75
