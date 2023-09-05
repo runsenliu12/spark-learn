@@ -1,0 +1,7 @@
+ProductA,100.0
+ProductB,150.5
+ProductA,75.0
+ProductC,200.2
+ProductB,50.0
+ProductC,125.8
+ProductA,120.3
